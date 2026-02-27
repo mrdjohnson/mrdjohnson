@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Checkout my side project, [LLM-X](https://github.com/mrdjohnson/llm-x) that I have been working when I have free time; a Chat GPT like clone for Local LLM users (primarily Ollama)
+🔭 Checkout my side projects, [SukiStudy](https://github.com/mrdjohnson/sukistudy) a Japanese language learning helper tool by providing a bunch of games, and [LLM-X](https://github.com/mrdjohnson/llm-x) that I have been working when I have free time; a Chat GPT like clone for Local LLM users (primarily Ollama)
 
 I have more in the pipeline but my focus now is continuing my career. <br> 
 
