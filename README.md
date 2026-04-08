@@ -1,9 +1,14 @@
 # 💫 About Me:
+
+I'm a World traveling Software Engineer with 10+ years as an engineer, 5 years were at Square Inc in San Francisco.
+
+🔥 My hot take: Developer Experience is one of the most important things.
+
 🔭 Checkout my side projects, [SukiStudy](https://github.com/mrdjohnson/sukistudy) a Japanese language learning helper tool by providing a bunch of games, and [LLM-X](https://github.com/mrdjohnson/llm-x) that I have been working when I have free time; a Chat GPT like clone for Local LLM users (primarily Ollama)
 
 I have more in the pipeline but my focus now is continuing my career. <br> 
 
-I'm looking to collaborate on anything React related! I have really been enjoying frontend work. I can do backend, I can do it well, but I prefer front-end work more.<br>
+I'm looking to collaborate on anything React related! I have really been enjoying frontend work. <b/> I can do backend, I can do it well, but I prefer front-end work more. </b> <br> 
 
 
 ## 🌐 Socials:
